@@ -162,7 +162,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-*Developed by [Vaibhav Bansal](https://github.com/Vbansal21) in Sem-2, session 2022-2023.*
+*Developed by [Vaibhav Bansal](https://github.com/Vbansal21) (and team) in Sem-2, session 2022-2023.*
 
 ---
 
